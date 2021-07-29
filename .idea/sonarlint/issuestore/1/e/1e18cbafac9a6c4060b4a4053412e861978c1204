@@ -1,0 +1,11 @@
+
+?
+java:S2629"$Invoke method(s) only conditionally.(¿’ôŸúÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Èµõ¢ýÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹Á¿¢ýÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(Úãœ˜
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Úãœ˜
